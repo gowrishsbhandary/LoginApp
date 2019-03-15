@@ -1,0 +1,9 @@
+com\loginapp\controller\LoginController.class
+com\loginapp\model\Login.class
+com\loginapp\controller\RegistrationController.class
+com\loginapp\service\UserService.class
+com\loginapp\dao\UserDao.class
+com\loginapp\dao\UserDaoImpl.class
+com\loginapp\model\User.class
+com\loginapp\service\UserServiceImpl.class
+com\loginapp\dao\UserMapper.class
